@@ -1182,10 +1182,10 @@ esutils@^2.0.2:
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.3.tgz#74d2eb4de0b8da1293711910d50775b9b710ef64"
   integrity sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==
 
-eth-chainlist@^0.0.403:
-  version "0.0.403"
-  resolved "https://registry.yarnpkg.com/eth-chainlist/-/eth-chainlist-0.0.403.tgz#575118c60996fc47ba69883f2d777bbe166bb784"
-  integrity sha512-4y5UCJtkFAuVHA+L0O9yRXkaoSaZ87T1/RmYCFDdO5p31oDS0Xtyu9SbkRbKk5dcxgyqtepyWphUPnCb35IWtA==
+eth-chainlist@^0.0.408:
+  version "0.0.408"
+  resolved "https://registry.yarnpkg.com/eth-chainlist/-/eth-chainlist-0.0.408.tgz#31af920c010511ea8673291127c8444f6e5cfda4"
+  integrity sha512-WDU4dY/tVubelkViJM2Jn8/zD9hvne3rlAEF7psC3r1jn031d2r8BbUyQLdsIXmIJK1eoWRQaO9yKWZhc1otJw==
 
 eth-checksum@^1.0.1:
   version "1.0.1"
