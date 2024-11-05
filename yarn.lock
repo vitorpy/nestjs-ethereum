@@ -630,11 +630,6 @@ acorn@^8.14.0:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.14.0.tgz#063e2c70cac5fb4f6467f0b11152e04c682795b0"
   integrity sha512-cl669nCJTZBsL97OF4kUQm5g5hC2uihk0NxY3WENAC0TYdILVkAyHymAntgxGkl7K+t0cXIrH5siy5S4XkFycA==
 
-acorn@^8.14.0:
-  version "8.14.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.14.0.tgz#063e2c70cac5fb4f6467f0b11152e04c682795b0"
-  integrity sha512-cl669nCJTZBsL97OF4kUQm5g5hC2uihk0NxY3WENAC0TYdILVkAyHymAntgxGkl7K+t0cXIrH5siy5S4XkFycA==
-
 acorn@^8.8.2:
   version "8.11.3"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.11.3.tgz#71e0b14e13a4ec160724b38fb7b0f233b1b81d7a"
@@ -1226,10 +1221,10 @@ esutils@^2.0.2:
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.3.tgz#74d2eb4de0b8da1293711910d50775b9b710ef64"
   integrity sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==
 
-eth-chainlist@^0.0.524:
-  version "0.0.524"
-  resolved "https://registry.yarnpkg.com/eth-chainlist/-/eth-chainlist-0.0.524.tgz#54c5cf0b265ccba4f2e5e43066ee0bb9eadadee7"
-  integrity sha512-h34RfSCpMyzJZAoPsWpCdbUhMQMk8YSJ4aideKoJt4/+3YPHw2+6TXI5hBMgSj4qENuXyWNe676D5Cof39UUFA==
+eth-chainlist@^0.0.532:
+  version "0.0.532"
+  resolved "https://registry.yarnpkg.com/eth-chainlist/-/eth-chainlist-0.0.532.tgz#9a1c718c2c790f3327f48880e46bba9120dd759e"
+  integrity sha512-L01BSQna1jL0P2ZzA/1fwSuKEZHXT/XvCf4FLHRMF282JWDMKS+7a2xa/d4TRts59fO9jiNm4a9ncuxi90TMRg==
 
 eth-checksum@^1.0.1:
   version "1.0.1"
